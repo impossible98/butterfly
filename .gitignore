@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+# Node.js
+node_modules/
+# Editor directories and files
+.idea/
+# Env
+.env
+.env.*
+!.env.example
+# Data
+data/
+# Dist
+dist/
